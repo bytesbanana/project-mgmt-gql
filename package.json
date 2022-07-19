@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/graphql": "^14.5.0",
     "@types/mongoose": "^5.11.97",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
